@@ -2,6 +2,9 @@
 ResultadosElectorales_2019.csv
 ResultadosElectorales_2023.csv
 
+# Imagenes exportadas
+charts/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
