@@ -5,6 +5,9 @@ ResultadosElectorales_2023.csv
 # Imagenes exportadas
 charts/
 
+# Archivos para el grafico del mapa
+shapefiles/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
